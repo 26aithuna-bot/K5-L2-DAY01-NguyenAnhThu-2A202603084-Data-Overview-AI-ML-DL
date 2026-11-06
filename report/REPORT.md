@@ -2,7 +2,7 @@
 
 **Ngày chạy:** 2026-11-06
 
-**Runtime:** CPU (không có GPU; notebook chạy trên môi trường Linux ngoài Colab)
+**Runtime:** T4 GPU Colab
 
 **Python / PyTorch / Ultralytics:** Python 3.13.18 / PyTorch 2.15.0+cu132 (chạy trên CPU) / Ultralytics 8.4.145 (đúng bản ghim, assert phiên bản PASS)
 
